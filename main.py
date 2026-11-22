@@ -1,6 +1,6 @@
 """Copy the bundled front-page image to the output directory.
 
-Entry point for the make.fun news-image-20261122 bounty. The program
+Entry point for the make.fun news-image-20261122 bounty (v2). The program
 holds the image in the repository and copies it, byte for byte, to
 /output/entry.png (or $MAKEFUN_OUTPUT_DIR/entry.png). No network, no
 randomness, no input: two runs write identical bytes.
