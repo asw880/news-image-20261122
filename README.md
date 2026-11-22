@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/news-image-20261122/asw880/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
 [![reward](https://make.fun/badge/news-image-20261122/asw880/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
 
-A make.fun [news-image-20261122](https://make.fun/bounty/news-image-20261122) entry: a program that writes one image summing up the world's news of Sunday 22 November 2026.
+A make.fun [news-image-20261122](https://make.fun/bounty/news-image-20261122) entry (v2): a program that writes one image summing up the world's news of Sunday 22 November 2026.
 
 ## The image
 
-A one-page newspaper front page, drawn in code: 37 dated stories across 6 regions — COP31's final text in Antalya, Iran's radar claim and Bahrain's denial, Russia's 186-drone barrage over Ukraine — with a stats strip, a "Day in UTC" timeline, a world map with numbered pins, per-story sources and certainty tags, and a DATE CHECK box that names the earlier-day stories deliberately left out.
+A one-page newspaper front page, drawn in code: 37 dated stories across 6 regions — COP31's final text in Antalya, Iran's radar claim and Bahrain's denial, Russia's 186-drone barrage over Ukraine — with a stats strip, a "Day in UTC" timeline, a dotted world map with numbered pins, per-story sources and certainty tags, and a DATE CHECK box that names the earlier-day stories deliberately left out. v2 redraws the page bolder than v1: a bigger masthead, larger headlines and stats, richer illustrated scenes, and a dotted world map.
 
 ## Run it
 
